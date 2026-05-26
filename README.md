@@ -7,7 +7,7 @@ A full-featured Flutter e-commerce app with Firebase backend and Razorpay paymen
 - 🛍️ Product listing with categories, search & filters
 - 🛒 Shopping cart with quantity management
 - ❤️ Wishlist
-- 💳 Razorpay payment integration (Test Key: rzp_test_SgnUWJM5aAchCS)
+- 💳 Razorpay payment integration 
 - 📦 Order tracking
 - 👤 User profile management
 - 🌙 Dark mode support
